@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Who am i ? A talented coder with 20+ years of experience in diverse environments. Highly adaptive with new technology, laser focus on problem solving, can easily work with designated team and highly motivated especially when caffeine is presented
+With over 20 years of experience in coding, I am highly adaptable to new technologies and have a laser focus on problem-solving. I work well with teams and am highly motivated, especially when caffeine is involved.
 
 [//]: # (-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
 
