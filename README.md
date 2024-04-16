@@ -4,7 +4,8 @@ Who am i ? A talented coder with 20+ years of experience in diverse environments
 
 [//]: # (-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
 
-![permaficus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=permaficus&theme=vue-dark&hide_border=true)![permaficus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=permaficus&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![permaficus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=permaficus&theme=dracula&hide_border=true)
+![permaficus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=permaficus&theme=dracula&show_icons=true&hide_border=true)
 <!--
 **permaficus/permaficus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
