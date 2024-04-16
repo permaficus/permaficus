@@ -1,5 +1,6 @@
-[//]: # (Simple Information)
-![permaficus](https://komarev.com/ghpvc/?username=permaficus)
+### Hi there 👋
+
+Who am i ? A talented coder with 20+ years of experience in diverse environments. Highly adaptive with new technology, laser focus on problem solving, can easily work with designated team and highly motivated especially when caffeine is presented
 
 <!--
 **permaficus/permaficus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
