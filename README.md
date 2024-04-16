@@ -3,9 +3,9 @@
 Who am i ? A talented coder with 20+ years of experience in diverse environments. Highly adaptive with new technology, laser focus on problem solving, can easily work with designated team and highly motivated especially when caffeine is presented
 
 [//]: # (-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
-
+<div align=center>
 ![permaficus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=permaficus&theme=vue-dark&hide_border=true)
-
+</div>
 <!--
 **permaficus/permaficus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
