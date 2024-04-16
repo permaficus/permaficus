@@ -1,4 +1,5 @@
-### Hi there 👋
+[//]: # (Simple Information)
+![permaficus](https://komarev.com/ghpvc/?username=permaficus)
 
 <!--
 **permaficus/permaficus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
