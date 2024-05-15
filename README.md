@@ -14,6 +14,7 @@ With over 20 years of experience in coding, I am highly adaptable to new technol
 
 **Daily Tools:**
 
+<p align="center">
 <code><img height="20em" src="https://img.shields.io/badge/JS-yellow"></code>
 <code><img height="20em" src="https://img.shields.io/badge/Typescript-blue"></code>
 <code><img height="20em" src="https://img.shields.io/badge/Redis-red"></code>
@@ -26,6 +27,7 @@ With over 20 years of experience in coding, I am highly adaptable to new technol
 <code><img height="20em" src="https://img.shields.io/badge/postgre-sql-blue"></code>
 <code><img height="20em" src="https://img.shields.io/badge/My-SQL-orange"></code>
 <code><img height="20em" src="https://img.shields.io/badge/prisma-orm-gray?labelColor=aqua"></code>
+</p>
 
 <!--
 **permaficus/permaficus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
