@@ -3,7 +3,7 @@
 With over 20 years of experience in coding, I am highly adaptable to new technologies and have a laser focus on problem-solving. I work well with teams and am highly motivated, especially when caffeine is involved.
 
 [//]: # (-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
-<p align="left">
+<p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=permaficus&theme=dracula&hide_border=true">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=permaficus&theme=dracula&show_icons=true&hide_border=true&layout=compact">
 
