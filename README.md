@@ -17,16 +17,16 @@ With over 20 years of experience in coding, I am highly adaptable to new technol
 <p align="center">
 <code><img height="20em" src="https://img.shields.io/badge/JS-yellow"></code>
 <code><img height="20em" src="https://img.shields.io/badge/Typescript-blue"></code>
-<code><img height="20em" src="https://img.shields.io/badge/Redis-red"></code>
-<code><img height="20em" src="https://img.shields.io/badge/RabbitMQ-orange"></code>
-<code><img height="20em" src="https://img.shields.io/badge/Docker-blue"></code>
-<code><img height="20em" src="https://img.shields.io/badge/VSCode-blue"></code>
+<code><img height="20em" src="https://img.shields.io/badge/redis-white?logo=redis"></code>
+<code><img height="20em" src="https://img.shields.io/badge/rabbitmq-gray?logo=rabbitmq"></code>
+<code><img height="20em" src="https://img.shields.io/badge/docker-white?logo=docker"></code>
+<code><img height="20em" src="https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode"></code>
 <code><img height="20em" src="https://img.shields.io/badge/Vim-gray"></code>
-<code><img height="20em" src="https://img.shields.io/badge/Node.js-green"></code>
+<code><img height="20em" src="https://img.shields.io/badge/Node.js-green?logo=nodedotjs&labelColor=white"></code>
 <code><img height="20em" src="https://img.shields.io/badge/mongo-db-green"></code>
-<code><img height="20em" src="https://img.shields.io/badge/postgre-sql-blue"></code>
-<code><img height="20em" src="https://img.shields.io/badge/My-SQL-orange"></code>
-<code><img height="20em" src="https://img.shields.io/badge/prisma-orm-gray?labelColor=aqua"></code>
+<code><img height="20em" src="https://img.shields.io/badge/postgre-sql-blue?logo=postgresql&labelColor=white"></code>
+<code><img height="20em" src="https://img.shields.io/badge/MySQL-orange?logo=mysql&labelColor=white"></code>
+<code><img height="20em" src="https://img.shields.io/badge/Prisma-ORM-blue?logo=prisma&labelColor=gray"></code>
 </p>
 
 <!--
