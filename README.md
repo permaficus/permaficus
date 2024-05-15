@@ -27,6 +27,12 @@ With over 20 years of experience in coding, I am highly adaptable to new technol
 <code><img height="20em" src="https://img.shields.io/badge/postgre-sql-blue?logo=postgresql&labelColor=white"></code>
 <code><img height="20em" src="https://img.shields.io/badge/MySQL-orange?logo=mysql&labelColor=white"></code>
 <code><img height="20em" src="https://img.shields.io/badge/Prisma-ORM-blue?logo=prisma&labelColor=gray"></code>
+<code><img height="20em" src="https://img.shields.io/badge/nginx-green?logo=nginx&labelColor=gray"></code>
+<code><img height="20em" src="https://img.shields.io/badge/Apache%20Kafka-white?logo=apachekafka&labelColor=gray"></code>
+<code><img height="20em" src="https://img.shields.io/badge/kong-gateway-brightgreen?logo=kong&labelColor=gray"></code>
+<code><img height="20em" src="https://img.shields.io/badge/proxmox-white?logo=proxmox&labelColor=white"></code>
+<code><img height="20em" src="https://img.shields.io/badge/macOS-white?logo=macOS&labelColor=black"></code>
+<code><img height="20em" src="https://img.shields.io/badge/ubuntu-gray?logo=ubuntu&labelColor=white"></code>
 </p>
 
 <!--
