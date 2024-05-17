@@ -33,6 +33,7 @@ With over 20 years of experience in coding, I am highly adaptable to new technol
 <code><img height="20em" src="https://img.shields.io/badge/proxmox-white?logo=proxmox&labelColor=white"></code>
 <code><img height="20em" src="https://img.shields.io/badge/macOS-white?logo=macOS&labelColor=black"></code>
 <code><img height="20em" src="https://img.shields.io/badge/ubuntu-gray?logo=ubuntu&labelColor=white"></code>
+<code><img height="20em" src="https://img.shields.io/badge/postman-orange?logo=postman&labelColor=white"></code>
 </p>
 
 <!--
