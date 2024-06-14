@@ -12,7 +12,7 @@ With over 20 years of experience in coding, I am highly adaptable to new technol
 </p>
 <br>
 
-**Daily Tools:**
+**Tech Stack:**
 
 <p align="center">
 <code><img height="20em" src="https://img.shields.io/badge/JS-yellow"></code>
