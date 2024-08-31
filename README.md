@@ -8,7 +8,7 @@ With over 20 years of experience in coding, I am highly adaptable to new technol
 <p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=permaficus&theme=darcula&hide_border=true">
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=permaficus&theme=dracula&show_icons=true&hide_border=true&layout=compact">-->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=permaficus&theme=dracula&show_icons=true&layout=compact">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=permaficus&theme=dracula&show_icons=true&hide_border=true&layout=compact">
 </p>
 <br>
 
